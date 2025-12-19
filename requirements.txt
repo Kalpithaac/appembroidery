@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+requests
+opencv-python
+numpy
+python-dotenv
+azure-storage-blob
+pydantic
+scikit-learn
+pillow
+pydantic-settings
+python-multipart
